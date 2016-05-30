@@ -33,3 +33,5 @@ Group也就是组合的意思，就是把对这个Layer的所有动画都组合�
 4、CATransition（转场动画）
 
 这个就是苹果帮开发者封装好的一些动画
+
+博客地址： http://blog.csdn.net/u011043997/article/details/51538969
